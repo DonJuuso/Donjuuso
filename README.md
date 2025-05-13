@@ -87,7 +87,7 @@ GPA: 4.07 / 5.00
 
 ## Contact
 
-- LinkedIn: [https://www.linkedin.com/in/juuso-karjalainen-2a1172150](https://www.linkedin.com/in/juuso-karjalainen)
+- LinkedIn: [https://www.linkedin.com/in/juuso-karjalainen-2a1172150](https://www.linkedin.com/in/juuso-karjalainen/2a1172150)
 - Website: [https://www.menacecomics.com](https://www.menacecomics.com) /NOT PUBLISHED
 - Location: Lahti, Finland 
 
