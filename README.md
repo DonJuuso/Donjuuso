@@ -73,7 +73,8 @@ GPA: 4.07 / 5.00
   <img src="https://images.credly.com/size/340x340/images/7562bf68-c3a6-4d79-9154-00ee605b9492/UX.png" width="100" alt="Google UX Dual Credential" />
   <img src="https://images.credly.com/size/340x340/images/f4b9febb-69f6-46d8-8797-1e504ebfe0f8/GCC_badge_UX_1000x1000.png" width="100" alt="Google UX Design" />
 
-  <!-- Data Analytics -->
+  <!-- Data Dual Badge + Data Analytics -->
+  <img src="https://images.credly.com/size/340x340/images/4fc3fbcd-87af-4eb9-8f82-8898377c4a94/Badge.png" width="100" alt="Google Data Analytics Dual Credential" />
   <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="100" alt="Google Data Analytics" />
 
   <!-- IT Dual Badge + IT Support -->
@@ -85,6 +86,7 @@ GPA: 4.07 / 5.00
 
   <br>
 </div>
+
 
   <!-- manual button alignment -->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
