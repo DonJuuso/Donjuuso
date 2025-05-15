@@ -126,11 +126,11 @@ GPA: 4.07 / 5.00
   &nbsp;
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/juuso.karjalainen/" target="_blank">
+  
     <span>
       <img src="assets/Instagram logo.png" alt="Instagram" width="30" />
     </span>
-  </a>
+ 
   &nbsp;
 
   <!-- Discord -->
