@@ -108,42 +108,47 @@ GPA: 4.07 / 5.00
 ## Contact
 
 <p align="left">
+
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/juuso-karjalainen-2a1172150" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" width="30" />
+    <img src="assets/LinkedIn logo.png" alt="LinkedIn" width="30" />
   </a>
   &nbsp;
 
   <!-- Email -->
   <a href="mailto:juuso.karjalainen1997@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="30" />
+    <img src="assets/Email.png" alt="Email" width="30" />
   </a>
   &nbsp;
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/juuso.karjalainen/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" width="30" />
+    <img src="assets/Instagram logo.png" alt="Instagram" width="30" />
   </a>
   &nbsp;
 
   <!-- Discord -->
   <a href="https://discord.com/users/387331693951844383" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" alt="Discord" width="30" />
-  </a>
-  
-  <!-- Menace Comics -->
-  <a href="https://www.menacecomics.com/contact" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFQwZd7UBZceQ/company-logo_200_200/B4DZXaI0ssHkAM-/0/1743121504766/menace_comics_logo?e=1752710400&v=beta&t=lHJ2WTcNITdRwC3i5hMr-DYJd1iTiJvaNt3oJpvGoeE" alt="Menace Comics" width="30" />
+    <img src="assets/Discord logo.png" alt="Discord" width="30" />
   </a>
   &nbsp;
-  
+
+  <!-- Menace Comics -->
+  <a href="https://www.menacecomics.com/contact" target="_blank">
+    <img src="assets/Menace Comics licenced logo 2024.png" alt="Menace Comics" width="30" />
+  </a>
+  &nbsp;
+
 </p>
 
- 
 ## Location 
 <p>
 📍 Lahti, Finland 🇫🇮
 </p>
+<p align="center">
+  <sub><strong>Donjuuso</strong> · Lahti, Finland 🇫🇮 · 2025</sub>
+</p>
+
 
 
 
