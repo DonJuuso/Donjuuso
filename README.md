@@ -22,9 +22,8 @@ I'm a versatile and solution-focused software developer with experience in full-
 | Project | Technologies | Description |
 |---------|--------------|-------------|
 | Unity TCG (Private) | Unity, C# | Multiplayer card game with gameplay logic, animation, and custom UI systems. Integrated AI-based 3D character tools (Hunyuan3D-2). |
-| [MenaceComics.com](https://www.menacecomics.com) | WordPress, WooCommerce | Custom company website and shop system with custom plugins, post types, and enhanced SEO/security. NOT PUBLISHED |
-| [AI Voice Story App](https://github.com/Donjuuso/Kirjanurkka) | Python, RVC-Project, Flask | AI-narrated app using trained character voices. Real-time voice switching, backend integration, and user testing analysis. |
-| [Cloud Infra Demo](https://github.com/Donjuuso/AWS-Docker-Demo) | AWS, Docker, NGINX | Dockerized app deployed via AWS EC2, reverse proxied with NGINX. Demonstrates full infrastructure setup and DevOps flow. |
+| [MenaceComics.com](https://www.menacecomics.com) NOT PUBLISHED | WordPress | Custom company website, with custom plugins, post types, and enhanced SEO/security. |
+| AI Voice Story App Thesis | Python, RVC-Project, Flask | AI-narrated app using trained character voices. Real-time voice switching, backend integration, and user testing analysis. |
 
 ---
 
@@ -39,20 +38,25 @@ I'm a versatile and solution-focused software developer with experience in full-
 
 ## Tech Stack
 
-## Tech Stack
-
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+<!-- Programming Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+<!-- Web Development / CMS -->
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+
+<!-- Game Development -->
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
+
+<!-- Cloud & DevOps -->
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 
 ---
@@ -88,8 +92,7 @@ GPA: 4.07 / 5.00
 </div>
 
 
-  <!-- manual button alignment -->
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <div align="center">
   <a href="https://www.linkedin.com/in/juuso-karjalainen-2a1172150/details/certifications/" target="_blank">
     <img src="https://img.shields.io/badge/More%20Certifications-F9A825?style=for-the-badge&logo=linkedin&logoColor=white" alt="More Certifications">
   </a>
@@ -99,12 +102,26 @@ GPA: 4.07 / 5.00
 
 
 
+
 ---
 
 ## Contact
 
-- LinkedIn: [Juuso Karjalainen on LinkedIn](https://www.linkedin.com/in/juuso-karjalainen-2a1172150)
-- Website: [https://www.menacecomics.com](https://www.menacecomics.com)
-- Location: Lahti, Finland
+<p align="left">
+  <a href="https://www.linkedin.com/in/juuso-karjalainen-2a1172150" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.menacecomics.com" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFQwZd7UBZceQ/company-logo_200_200/B4DZXaI0ssHkAM-/0/1743121504766/menace_comics_logo?e=1752710400&v=beta&t=lHJ2WTcNITdRwC3i5hMr-DYJd1iTiJvaNt3oJpvGoeE" alt="Menace Comics" width="30" height="30" />
+  </a>
+</p>
+
+<p>
+Lahti, Finland 🇫🇮
+</p>
+
+
+
 
 
