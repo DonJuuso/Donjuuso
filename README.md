@@ -107,31 +107,38 @@ GPA: 4.07 / 5.00
 
 ## Contact
 
-<p align="left">
+<p align="center">
 
-<img src="assets/LinkedIn logo.png" alt="LinkedIn" width="20" />
-<a href="https://www.linkedin.com/in/juuso-karjalainen-2a1172150" target="_blank">Connect</a>  
-<br>
+  <a href="https://www.linkedin.com/in/juuso-karjalainen-2a1172150" target="_blank">
+    <img src="assets/LinkedIn logo.png" alt="LinkedIn" width="20" />
+    Connect
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<img src="assets/Email.png" alt="Email" width="20" />
-<a href="mailto:juuso.karjalainen1997@gmail.com">Contact</a>  
-<br>
+  <a href="mailto:juuso.karjalainen1997@gmail.com">
+    <img src="assets/Email.png" alt="Email" width="20" />
+    Contact
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<img src="assets/Instagram logo.png" alt="Instagram" width="20" />
-<a href="https://www.instagram.com/juuso.karjalainen/" target="_blank">Follow</a>  
-<br>
+  <a href="https://www.instagram.com/juuso.karjalainen/" target="_blank">
+    <img src="assets/Instagram logo.png" alt="Instagram" width="20" />
+    Follow
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<img src="assets/Discord logo.png" alt="Discord" width="20" />
-<a href="https://discord.com/users/387331693951844383" target="_blank">Contact</a>  
-<br>
+  <a href="https://discord.com/users/387331693951844383" target="_blank">
+    <img src="assets/Discord logo.png" alt="Discord" width="20" />
+    Contact
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<img src="assets/Menace Comics licenced logo 2024.png" alt="Menace Comics" width="20" />
-<a href="https://www.menacecomics.com/contact" target="_blank">Contact</a>
+  <a href="https://www.menacecomics.com/contact" target="_blank">
+    <img src="assets/Menace Comics licenced logo 2024.png" alt="Menace Comics" width="20" />
+    Contact
+  </a>
 
 </p>
-
-
-
 
 <p align="center">
   <sub><strong>Donjuuso 2025</strong></sub>
