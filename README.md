@@ -114,14 +114,8 @@ GPA: 4.07 / 5.00
   </a>
   &nbsp;
 
-  <!-- Menace Comics -->
-  <a href="https://www.menacecomics.com" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFQwZd7UBZceQ/company-logo_200_200/B4DZXaI0ssHkAM-/0/1743121504766/menace_comics_logo?e=1752710400&v=beta&t=lHJ2WTcNITdRwC3i5hMr-DYJd1iTiJvaNt3oJpvGoeE" alt="Menace Comics" width="30" />
-  </a>
-  &nbsp;
-
   <!-- Email -->
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:juuso.karjalainen1997@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="30" />
   </a>
   &nbsp;
@@ -132,15 +126,22 @@ GPA: 4.07 / 5.00
   </a>
   &nbsp;
 
-  <!-- Discord (server invite OR just logo for username mention) -->
-  <a href="https://discord.com/users/YOUR_USER_ID_OR_INVITE" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" alt="Discord" width="30" />
+  <!-- Discord -->
+  <a href="https://discord.com/users/387331693951844383" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" alt="Discord" width="30" />
   </a>
+  
+  <!-- Menace Comics -->
+  <a href="https://www.menacecomics.com/contact" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFQwZd7UBZceQ/company-logo_200_200/B4DZXaI0ssHkAM-/0/1743121504766/menace_comics_logo?e=1752710400&v=beta&t=lHJ2WTcNITdRwC3i5hMr-DYJd1iTiJvaNt3oJpvGoeE" alt="Menace Comics" width="30" />
+  </a>
+  &nbsp;
+  
 </p>
 
+ 
+## Location 
 <p>
-📧 Email: your.email@example.com  
-💬 Discord: juuso#1234  
 📍 Lahti, Finland 🇫🇮
 </p>
 
