@@ -1,5 +1,5 @@
-# Juuso Karjalainen
-Software Developer | Full-Stack · Game Development · AI · Cloud Infrastructure
+<h1 align="center">Juuso Karjalainen</h1>
+<p align="center"><em>Software Developer | Full-Stack · Game Development · AI · Cloud Infrastructure</em></p>
 
 I'm a versatile and solution-focused software developer with experience in full-stack web development, Unity game systems, AI/voice technologies, and cloud infrastructure. I enjoy building applications that combine creativity with solid backend architecture, whether it's a playable Unity game or an intelligent AI voice application.
 
@@ -38,28 +38,31 @@ I'm a versatile and solution-focused software developer with experience in full-
 
 ## Tech Stack
 
-<!-- Programming Languages -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+<p align="center">
+  
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
 
-<!-- Web Development / CMS -->
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+  <!-- Web / CMS -->
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white" alt="WooCommerce" />
 
-<!-- Game Development -->
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
+  <!-- Game Dev -->
+  <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" alt="Unity" />
 
-<!-- Cloud & DevOps -->
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+  <!-- Cloud / DevOps -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white" alt="NGINX" />
+
+</p>
 
 
----
 
 ## Education
 
@@ -103,6 +106,7 @@ GPA: 4.07 / 5.00
 
 
 
+
 ---
 
 ## Contact
@@ -139,6 +143,7 @@ GPA: 4.07 / 5.00
   </a>
 
 </p>
+
 
 <p align="center">
   <sub><strong>Donjuuso 2025</strong></sub>
