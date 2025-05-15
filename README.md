@@ -22,7 +22,7 @@ I'm a versatile and solution-focused software developer with experience in full-
 | Project | Technologies | Description |
 |---------|--------------|-------------|
 | Unity TCG (Private) | Unity, C# | Multiplayer card game with gameplay logic, animation, and custom UI systems. Integrated AI-based 3D character tools (Hunyuan3D-2). |
-| [MenaceComics.com](https://www.menacecomics.com) NOT PUBLISHED | WordPress | Custom company website, with custom plugins, post types, and enhanced SEO/security. |
+| NOT PUBLISHED | WordPress | Custom company website, with custom plugins, post types, and enhanced SEO/security. |
 | AI Voice Story App Thesis | Python, RVC-Project, Flask | AI-narrated app using trained character voices. Real-time voice switching, backend integration, and user testing analysis. |
 
 ---
