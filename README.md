@@ -126,12 +126,12 @@ GPA: 4.07 / 5.00
   &nbsp;
 
   <!-- Instagram -->
-  
+  <a>
     <span>
       <img src="assets/Instagram logo.png" alt="Instagram" width="30" />
     </span>
- 
-  &nbsp;
+  </a>
+  &nbsp;;
 
   <!-- Discord -->
   <a href="https://discord.com/users/387331693951844383" target="_blank">
