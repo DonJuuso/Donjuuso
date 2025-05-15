@@ -108,17 +108,40 @@ GPA: 4.07 / 5.00
 ## Contact
 
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/juuso-karjalainen-2a1172150" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" width="30" />
   </a>
   &nbsp;
+
+  <!-- Menace Comics -->
   <a href="https://www.menacecomics.com" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFQwZd7UBZceQ/company-logo_200_200/B4DZXaI0ssHkAM-/0/1743121504766/menace_comics_logo?e=1752710400&v=beta&t=lHJ2WTcNITdRwC3i5hMr-DYJd1iTiJvaNt3oJpvGoeE" alt="Menace Comics" width="30" height="30" />
+    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFQwZd7UBZceQ/company-logo_200_200/B4DZXaI0ssHkAM-/0/1743121504766/menace_comics_logo?e=1752710400&v=beta&t=lHJ2WTcNITdRwC3i5hMr-DYJd1iTiJvaNt3oJpvGoeE" alt="Menace Comics" width="30" />
+  </a>
+  &nbsp;
+
+  <!-- Email -->
+  <a href="mailto:your.email@example.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="30" />
+  </a>
+  &nbsp;
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/juuso.karjalainen/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" width="30" />
+  </a>
+  &nbsp;
+
+  <!-- Discord (server invite OR just logo for username mention) -->
+  <a href="https://discord.com/users/YOUR_USER_ID_OR_INVITE" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" alt="Discord" width="30" />
   </a>
 </p>
 
 <p>
-Lahti, Finland 🇫🇮
+📧 Email: your.email@example.com  
+💬 Discord: juuso#1234  
+📍 Lahti, Finland 🇫🇮
 </p>
 
 
