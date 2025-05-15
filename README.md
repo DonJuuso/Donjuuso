@@ -110,39 +110,46 @@ GPA: 4.07 / 5.00
 <p align="left">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/juuso-karjalainen-2a1172150" target="_blank" style="text-decoration: none;">
-    <img src="assets/LinkedIn logo.png" alt="LinkedIn" width="30" />
+  <a href="https://www.linkedin.com/in/juuso-karjalainen-2a1172150" target="_blank">
+    <span>
+      <img src="assets/LinkedIn logo.png" alt="LinkedIn" width="30" />
+    </span>
   </a>
   &nbsp;
 
   <!-- Email -->
-  <a href="mailto:juuso.karjalainen1997@gmail.com" style="text-decoration: none;">
-    <img src="assets/Email.png" alt="Email" width="30" />
+  <a href="mailto:juuso.karjalainen1997@gmail.com">
+    <span>
+      <img src="assets/Email.png" alt="Email" width="30" />
+    </span>
   </a>
   &nbsp;
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/juuso.karjalainen/" target="_blank" style="text-decoration: none;">
-    <img src="assets/Instagram logo.png" alt="Instagram" width="30" />
+  <a href="https://www.instagram.com/juuso.karjalainen/" target="_blank">
+    <span>
+      <img src="assets/Instagram logo.png" alt="Instagram" width="30" />
+    </span>
   </a>
   &nbsp;
 
   <!-- Discord -->
-  <a href="https://discord.com/users/387331693951844383" target="_blank" style="text-decoration: none;">
-    <img src="assets/Discord logo.png" alt="Discord" width="30" />
+  <a href="https://discord.com/users/387331693951844383" target="_blank">
+    <span>
+      <img src="assets/Discord logo.png" alt="Discord" width="30" />
+    </span>
   </a>
   &nbsp;
 
   <!-- Menace Comics -->
-  <a href="https://www.menacecomics.com/contact" target="_blank" style="text-decoration: none;">
-    <img src="assets/Menace Comics licenced logo 2024.png" alt="Menace Comics" width="30" />
+  <a href="https://www.menacecomics.com/contact" target="_blank">
+    <span>
+      <img src="assets/Menace Comics licenced logo 2024.png" alt="Menace Comics" width="30" />
+    </span>
   </a>
   &nbsp;
 
 </p>
-
-
----
 
 <p align="center">
   <sub><strong>Donjuuso 2025</strong></sub>
