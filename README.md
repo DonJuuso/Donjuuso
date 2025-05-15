@@ -21,7 +21,7 @@ I'm a versatile and solution-focused software developer with experience in full-
 
 | Project | Technologies | Description |
 |---------|--------------|-------------|
-| [Unity TCG] | Unity, C# | Multiplayer card game with gameplay logic, animation, and custom UI systems. Integrated AI-based 3D character tools (Hunyuan3D-2). |
+| Unity TCG (Private) | Unity, C# | Multiplayer card game with gameplay logic, animation, and custom UI systems. Integrated AI-based 3D character tools (Hunyuan3D-2). |
 | [MenaceComics.com](https://www.menacecomics.com) | WordPress, WooCommerce | Custom company website and shop system with custom plugins, post types, and enhanced SEO/security. NOT PUBLISHED |
 | [AI Voice Story App](https://github.com/Donjuuso/Kirjanurkka) | Python, RVC-Project, Flask | AI-narrated app using trained character voices. Real-time voice switching, backend integration, and user testing analysis. |
 | [Cloud Infra Demo](https://github.com/Donjuuso/AWS-Docker-Demo) | AWS, Docker, NGINX | Dockerized app deployed via AWS EC2, reverse proxied with NGINX. Demonstrates full infrastructure setup and DevOps flow. |
@@ -39,6 +39,8 @@ I'm a versatile and solution-focused software developer with experience in full-
 
 ## Tech Stack
 
+## Tech Stack
+
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -49,6 +51,9 @@ I'm a versatile and solution-focused software developer with experience in full-
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
 
 ---
 
@@ -64,13 +69,22 @@ GPA: 4.07 / 5.00
 ## Certifications
 
 <div align="left">
+  <!-- UX Dual Badge + UX -->
+  <img src="https://images.credly.com/size/340x340/images/7562bf68-c3a6-4d79-9154-00ee605b9492/UX.png" width="100" alt="Google UX Dual Credential" />
   <img src="https://images.credly.com/size/340x340/images/f4b9febb-69f6-46d8-8797-1e504ebfe0f8/GCC_badge_UX_1000x1000.png" width="100" alt="Google UX Design" />
-  <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="100" alt="Google Cybersecurity" />
-  <img src="https://images.credly.com/size/340x340/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" width="100" alt="Google IT Support" />
+
+  <!-- Data Analytics -->
   <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="100" alt="Google Data Analytics" />
 
-  <!-- small visual gap -->
+  <!-- IT Dual Badge + IT Support -->
+  <img src="https://images.credly.com/images/bc810022-a0e9-4390-b8ac-0a1f2e6be68f/IT.png" width="100" alt="Google IT Dual Credential" />
+  <img src="https://images.credly.com/size/340x340/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" width="100" alt="Google IT Support" />
+
+  <!-- Cybersecurity -->
+  <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="100" alt="Google Cybersecurity" />
+
   <br>
+</div>
 
   <!-- manual button alignment -->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
