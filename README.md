@@ -64,9 +64,11 @@ I'm a versatile and solution-focused software developer with experience in full-
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white" alt="NGINX" />
 
+  <!-- Machine Learning / AI -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+
 </p>
-
-
 
 ## Education
 
