@@ -79,27 +79,22 @@ GPA: 4.07 / 5.00
 
 ## Certifications
 
-<div align="left">
-  <!-- Intel Tiber Trust Authority (Own Row) -->
-  <img src="https://images.credly.com/size/340x340/images/f05ec4cc-f2f7-4eef-9be5-3d27f3552fa1/blob" height="80" alt="Intel Tiber Trust Authority" />
-  <br><br>
-
-  <!-- UX Dual Badge + UX -->
-  <img src="https://images.credly.com/size/340x340/images/7562bf68-c3a6-4d79-9154-00ee605b9492/UX.png" width="100" alt="Google UX Dual Credential" />
-  <img src="https://images.credly.com/size/340x340/images/f4b9febb-69f6-46d8-8797-1e504ebfe0f8/GCC_badge_UX_1000x1000.png" width="100" alt="Google UX Design" />
-
-  <!-- Data Dual Badge + Data Analytics -->
-  <img src="https://images.credly.com/size/340x340/images/4fc3fbcd-87af-4eb9-8f82-8898377c4a94/Badge.png" width="100" alt="Google Data Analytics Dual Credential" />
-  <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="100" alt="Google Data Analytics" />
-
-  <!-- IT Dual Badge + IT Support -->
-  <img src="https://images.credly.com/images/bc810022-a0e9-4390-b8ac-0a1f2e6be68f/IT.png" width="100" alt="Google IT Dual Credential" />
-  <img src="https://images.credly.com/size/340x340/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" width="100" alt="Google IT Support" />
-
-  <!-- Cybersecurity -->
-  <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="100" alt="Google Cybersecurity" />
-  <br>
+<!-- Intel Row -->
+<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
+  <img src="https://images.credly.com/size/340x340/images/f05ec4cc-f2f7-4eef-9be5-3d27f3552fa1/blob" height="100" alt="Intel Tiber Trust Authority" />
 </div>
+
+<!-- Google Certs Row -->
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="https://images.credly.com/size/340x340/images/7562bf68-c3a6-4d79-9154-00ee605b9492/UX.png" height="100" alt="Google UX Dual Credential" />
+  <img src="https://images.credly.com/size/340x340/images/f4b9febb-69f6-46d8-8797-1e504ebfe0f8/GCC_badge_UX_1000x1000.png" height="100" alt="Google UX Design" />
+  <img src="https://images.credly.com/size/340x340/images/4fc3fbcd-87af-4eb9-8f82-8898377c4a94/Badge.png" height="100" alt="Google Data Analytics Dual Credential" />
+  <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" height="100" alt="Google Data Analytics" />
+  <img src="https://images.credly.com/images/bc810022-a0e9-4390-b8ac-0a1f2e6be68f/IT.png" height="100" alt="Google IT Dual Credential" />
+  <img src="https://images.credly.com/size/340x340/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" height="100" alt="Google IT Support" />
+  <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" height="100" alt="Google Cybersecurity" />
+</div>
+
 
 
   <div align="center">
