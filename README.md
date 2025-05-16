@@ -82,8 +82,9 @@ GPA: 4.07 / 5.00
 ## Certifications
 
 <!-- Intel Row -->
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px; gap: 20px;">
   <img src="https://images.credly.com/size/340x340/images/f05ec4cc-f2f7-4eef-9be5-3d27f3552fa1/blob" height="100" alt="Intel Tiber Trust Authority" />
+  <img src="https://images.credly.com/images/1b0c6ace-8a3a-4d8b-b713-44570757cda7/hpc-600px.png" height="100" alt="Intel High Performance Computing" />
 </div>
 
 <!-- Google Certs Row -->
