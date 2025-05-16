@@ -80,8 +80,10 @@ GPA: 4.07 / 5.00
 ## Certifications
 
 <div align="left">
-   <!-- Intel Tiber Trust Authority -->
-<img src="https://images.credly.com/size/340x340/images/f05ec4cc-f2f7-4eef-9be5-3d27f3552fa1/blob" height="80" alt="Intel Tiber Trust Authority" />
+  <!-- Intel Tiber Trust Authority (Own Row) -->
+  <img src="https://images.credly.com/size/340x340/images/f05ec4cc-f2f7-4eef-9be5-3d27f3552fa1/blob" height="80" alt="Intel Tiber Trust Authority" />
+  <br><br>
+
   <!-- UX Dual Badge + UX -->
   <img src="https://images.credly.com/size/340x340/images/7562bf68-c3a6-4d79-9154-00ee605b9492/UX.png" width="100" alt="Google UX Dual Credential" />
   <img src="https://images.credly.com/size/340x340/images/f4b9febb-69f6-46d8-8797-1e504ebfe0f8/GCC_badge_UX_1000x1000.png" width="100" alt="Google UX Design" />
@@ -96,9 +98,9 @@ GPA: 4.07 / 5.00
 
   <!-- Cybersecurity -->
   <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="100" alt="Google Cybersecurity" />
-
   <br>
 </div>
+
 
   <div align="center">
   <a href="https://www.linkedin.com/in/juuso-karjalainen-2a1172150/details/certifications/" target="_blank">
