@@ -95,9 +95,11 @@ GPA: 4.07 / 5.00
   <!-- Cybersecurity -->
   <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="100" alt="Google Cybersecurity" />
 
+  <!-- Intel Tiber Trust Authority -->
+  <img src="https://images.credly.com/size/340x340/images/f05ec4cc-f2f7-4eef-9be5-3d27f3552fa1/blob" width="100" alt="Intel Tiber Trust Authority" />
+
   <br>
 </div>
-
 
   <div align="center">
   <a href="https://www.linkedin.com/in/juuso-karjalainen-2a1172150/details/certifications/" target="_blank">
