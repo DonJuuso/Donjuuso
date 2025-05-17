@@ -154,7 +154,7 @@ GPA: 4.07 / 5.00
 
 
 <p align="center">
-  <sub><strong>Donjuuso 2025</strong></sub>
+  <sub><strong>DonJuuso 2025</strong></sub>
 </p>
 
 
