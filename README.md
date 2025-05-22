@@ -7,23 +7,23 @@ I'm a versatile and solution-focused software developer with experience in full-
 
 ## Experience Highlights
 
-- **Unity Game Development**: Working on a on production Trading Card Game (TCG) using Unity and C#. Responsibilities include gameplay logic, UI systems, and AI-based 3D character generation using Hunyuan3D-2.
-
 - **Full-Stack Web Development**: Developed WordPress and WooCommerce sites with advanced customization (PHP, JS), SEO, and performance/security improvements. Also experienced in React (frontend) and Spring Boot (Java backend).
-
+  
+- **Unity Game Development**: Working on a on production Trading Card Game (TCG) using Unity and C#. Responsibilities include gameplay logic, UI systems, and AI-based 3D character generation using Hunyuan3D-2.
+  
 - **AI Voice & ML**: Built an AI-narrated web app using RVC-Project for character-based storytelling. Managed model training, backend voice logic, and conducted user testing.
 
 - **Cloud & DevOps**: Hands-on experience with AWS (EC2, S3, IAM), Docker-based deployments, NGINX configuration, GitHub Actions, and CI/CD pipelines.
 
 ---
 
-## Selected Projects
+## Project experience
 
 | Project | Technologies | Description |
 |---------|--------------|-------------|
 | Unity TCG (Private) | Unity, C# | Multiplayer card game with gameplay logic, animation, and custom UI systems. Integrated AI-based 3D character tools (Hunyuan3D-2). |
-| NOT PUBLISHED | WordPress | Custom company website, with custom plugins, post types, and enhanced SEO/security. |
-| AI Voice Story App Thesis | Python, RVC-Project, Flask | AI-narrated app using trained character voices. Real-time voice switching, backend integration, and user testing analysis. |
+| WordPress [MenaceComics.com](https://MenaceComics.com) | Custom company website, with custom plugins, post types, and enhanced SEO/security. |
+| AI-Narrated Webapp for Illustrated Books (Thesis) | React, Node.js, Tailwind CSS, MongoDB, RVC-Project, Gradio, FFmpeg | Full-stack web application that integrates AI-based voice conversion to deliver immersive, character-specific narration for illustrated books. Users can click speech bubbles to hear pre-rendered voice lines or switch between narrator models. Developed using open-source tools and validated through ITU-standardized user testing (N=23). |
 
 ---
 
