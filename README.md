@@ -30,7 +30,7 @@ I'm a versatile and solution-focused software developer with experience in full-
 ## Skills and Technologies
 
 **Languages**: Python, Java, C#, PHP, JavaScript, SQL  
-**Web**: WordPress, React, WooCommerce, Node.js, HTML/CSS  
+**Web**: WordPress (Gutenberg, ACF, theme/plugin dev, REST API, headless CMS), React, WooCommerce, Node.js, HTML/CSS 
 **Game Dev**: Unity (C#), UI/UX, animation systems, prefab logic  
 **AI/ML**: RVC Project, scikit-learn, PyTorch/TensorFlow (basics), Hunyuan3D-2  
 **Cloud/DevOps**: AWS (EC2, S3, IAM), Docker, NGINX, Git, CI/CD (GitHub Actions)  
@@ -50,6 +50,7 @@ I'm a versatile and solution-focused software developer with experience in full-
 <img src="https://img.shields.io/badge/OPA-262261?style=flat&logo=open-policy-agent&logoColor=white" alt="Open Policy Agent" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
 
@@ -76,7 +77,7 @@ I'm a versatile and solution-focused software developer with experience in full-
 ## Education
 
 **BBA, Business Information Technology**  
-LAB University of Applied Sciences (Expected Graduation: May 2025)  
+LAB University of Applied Sciences
 Focus: Software development, web dev, cloud infrastructure, and AI tools  
 GPA: 4.07 / 5.00
 
