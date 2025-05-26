@@ -86,7 +86,9 @@ GPA: 4.07 / 5.00
 
 <!-- Intel Row -->
 <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px; gap: 20px;">
+  <img src="https://images.credly.com/images/aeb6e447-bad1-4de4-a592-f29d51d1cf91/image.png" height="100" alt="Intel Cloud Security" />
   <img src="https://images.credly.com/size/340x340/images/f05ec4cc-f2f7-4eef-9be5-3d27f3552fa1/blob" height="100" alt="Intel Tiber Trust Authority" />
+  <img src="https://images.credly.com/size/340x340/images/7dd22b77-7b9e-4cda-a52a-e72c1d515fa4/image.png" height="100" alt="Intel Confidential Computing" />
   <img src="https://images.credly.com/images/1b0c6ace-8a3a-4d8b-b713-44570757cda7/hpc-600px.png" height="100" alt="Intel High Performance Computing" />
 </div>
 
