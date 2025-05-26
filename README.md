@@ -20,10 +20,11 @@ I'm a versatile and solution-focused software developer with experience in full-
 ## Project experience
 
 | Project | Technologies | Description |
-|---------|--------------|-------------|
-| Unity TCG (Private) | Unity, C# | Multiplayer card game with gameplay logic, animation, and custom UI systems. Integrated AI-based 3D character tools (Hunyuan3D-2). |
-| WordPress [MenaceComics.com](https://MenaceComics.com) waiting for the release of the book | Custom company website, with custom plugins, post types, and enhanced SEO/security. |
-| AI-Narrated Webapp for Illustrated Books (Thesis) | React, Node.js, Tailwind CSS, MongoDB, RVC-Project, Gradio, FFmpeg | Full-stack web application that integrates AI-based voice conversion to deliver immersive, character-specific narration for illustrated books. Users can click speech bubbles to hear pre-rendered voice lines or switch between narrator models. Developed using open-source tools and validated through ITU-standardized user testing (N=23). |
+|--------|--------------|-------------|
+| **Unity TCG (Private)** | Unity, C# | Multiplayer card game with gameplay logic, animation, and custom UI systems. Integrated AI-based 3D character tools (Hunyuan3D-2). |
+| ***Professional WordPress Development [MenaceComics.com](https://MenaceComics.com)**: Built fully custom ready to ship WordPress site from scratch — not just tweaking themes. Experience includes custom theme and child theme creation, plugin development, Gutenberg block customization, and REST API integrations. Used ACF to model flexible content systems for non-technical editors. Also implemented SEO, security hardening, and performance tuning using modern best practices. |
+| **AI-Narrated Webapp for Illustrated Books (Thesis)** | React, Node.js, Tailwind CSS, MongoDB, RVC-Project, Gradio, FFmpeg | Full-stack web application that integrates AI-based voice conversion to deliver immersive, character-specific narration for illustrated books. Users can click speech bubbles to hear pre-rendered voice lines or switch between narrator models. Developed using open-source tools and validated through ITU-standardized user testing (N=23). |
+
 
 ---
 
